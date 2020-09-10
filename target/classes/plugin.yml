@@ -1,0 +1,13 @@
+name: Launch
+version: 1.0-SNAPSHOT
+main: the0show.launch.com
+api-version: 1.16
+prefix: [ Launch ]
+authors: [ The0Show ]
+description: Launch in the sky!
+
+commands:
+  Launch:
+    aliases: lch
+    description: Launch yourself in the air!
+    usage: /launch [number-value]
