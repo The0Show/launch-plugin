@@ -6,3 +6,17 @@ Note: This was made in IntellJ IDEA.
 Permissions:<br>launch.use
 
 Commands:<br>/launch [power]<br>/lch [power]
+
+
+
+
+
+
+
+
+
+
+
+
+
+launch goes brrrr
